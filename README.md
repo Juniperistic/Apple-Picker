@@ -1,2 +1,2 @@
 # Apple-Picker
-One of the projects I worked on for 3D Game Dev Class. 
+One of the projects I worked on for 3D Game Dev Class. We worked on this project for about 1 week. It was created using Visual Studio 2022 Community Edition for the C# coding aspects. In addition, we used to Unity Game Engine to design and implement the models and other features to the game. It is meant to have aspects similar to that of the Activision game titled Kaboom!. More information can be found about that game at: https://en.wikipedia.org/wiki/Kaboom!_(video_game)
